@@ -1,18 +1,11 @@
-# 🛡️ Welcome to **Rohan**, brave adventurer!  
+🏰 **Welcome to Gondor, brave adventurer!**  
 
-You have crossed the plains and survived the perils of the first step. Now, the **Fellowship of Git** awaits.  
+The city of kings stands tall, but danger looms at every gate. Dark forces have crossed the plains, and **orcs are now at the very doorstep of Gondor**. The battle is close, and the fate of the city rests in your hands.  
 
-Each member of the fellowship must inscribe their name in this sacred scroll before proceeding to the next land.  
+Your mission is critical: **prepare a defensive strategy for the city**.  
 
-**Your task:**  
-1. Open this file.  
-2. Add your name to the list of fellow visitors below.  
-3. Save the file, stage, commit, and push your changes to the `rohan` branch.
+- Think creatively: archers, patrols, traps, magical barriers… anything that can help protect Gondor.  
+- Write down **three key strategies** in a file called `defense_plan.md`.  
+- Once done, stage, commit, and push your plan to the `gondor` branch.  
 
-### Fellow Visitors:
-- Aragorn
-- Legolas
-- Gimli
-- Gandalf
-- Frodo
-- [Your Name Here]  ← Replace this with your own name
+⚔️ Only the bravest and wisest adventurers will save the city. Your ideas will form the heart of Gondor's defense!
