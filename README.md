@@ -1,4 +1,4 @@
-🏰 **Welcome to Gondor, brave adventurer!**  
+# 🏰 **Welcome to Gondor, brave adventurer!**  
 
 The city of kings stands tall, but danger looms at every gate. Dark forces have crossed the plains, and **orcs are now at the very doorstep of Gondor**. The battle is close, and the fate of the city rests in your hands.  
 
