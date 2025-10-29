@@ -1,18 +1,18 @@
-# 🏴‍☠️ Git Treasure Quest
+# 🛡️ Welcome to **Rohan**, brave adventurer!  
 
-## Welcome, Adventurer!
-Ahoy! You’ve stumbled upon the legendary **Git Treasure Quest**, a hidden journey where only the cleverest explorers unlock the treasure.  
-In this game, your wits, curiosity, and Git skills are your compass. Each branch hides a clue, each commit marks your progress, and only the bravest reach the ultimate prize: the **Pull Shark badge** 🦈.
+You have crossed the plains and survived the perils of the first step. Now, the **Fellowship of Git** awaits.  
 
-## Your Mission
-Your quest is simple… but not easy:  
-- Navigate through branches like secret islands.  
-- Solve the riddles and complete tasks in each step.  
-- Find the treasure hidden in the final branch and claim your reward.  
+Each member of the fellowship must inscribe their name in this sacred scroll before proceeding to the next land.  
 
-Along the way, you’ll practice real Git skills: branching, committing, pushing, and merging.  
+**Your task:**  
+1. Open this file.  
+2. Add your name to the list of fellow visitors below.  
+3. Save the file, stage, commit, and push your changes to the `rohan` branch.
 
-## Instruction
-**Clone the repository** to your local machine:
-```bash
-git clone <repo-url>
+### Fellow Visitors:
+- Aragorn
+- Legolas
+- Gimli
+- Gandalf
+- Frodo
+- [Your Name Here]  ← Replace this with your own name
