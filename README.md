@@ -1,4 +1,4 @@
-🛡️ ##Welcome to **Rohan**, brave adventurer!  
+# 🛡️ Welcome to **Rohan**, brave adventurer!  
 
 You have crossed the plains and survived the perils of the first step. Now, the **Fellowship of Git** awaits.  
 
