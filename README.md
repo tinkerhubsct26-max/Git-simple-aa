@@ -21,8 +21,20 @@ Once your name shines among the Riders of Rohan, ride back to the `main` branch 
 - Legolas  
 - Gimli  
 - Gandalf  
+- Frodo  
 - [Your Name Here] ← Replace this with your own name
 
 ---
 
-> “Ride now, ride for ruin and the world’s ending!” — King Théoden of Rohan
+> “Ride now, ride for ruin and the world’s ending!” — King Théoden of Rohan  
+
+---
+
+## 🏰 Next Quest Awaits: The Defence of Gondor
+
+The beacons are lit — Gondor calls for aid! ⚔️  
+
+When your Rohan quest is complete, set forth on your next mission:
+
+```bash
+git checkout -b gondor
