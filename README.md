@@ -1,5 +1,5 @@
+![Banner](https://drive.google.com/file/d/1k7AvwCZCqYWR9-NyBJvSvo-lBargasSn/view?usp=sharing)
 # ⚔️ The Git Quest: Journey Through Middle-earth
-
 Welcome, traveler!
 
 Darkness spreads from Mordor, and only through unity can Middle-earth be saved.  
