@@ -1,4 +1,4 @@
-![Banner](https://drive.google.com/file/d/1k7AvwCZCqYWR9-NyBJvSvo-lBargasSn/view?usp=sharing)
+![Banner](https://raw.githubusercontent.com/tinkerhubsct26-max/)
 # ⚔️ The Git Quest: Journey Through Middle-earth
 Welcome, traveler!
 
