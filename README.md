@@ -24,6 +24,5 @@ git add .
 git commit -m "Add Gondor defense plan"
 git push origin gondor
 ```
-4. Merge to master branch
  
 
