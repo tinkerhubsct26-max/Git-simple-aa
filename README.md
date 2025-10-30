@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/tinkerhubsct26-max/tinkerhubsct26-max/assets/)
+![Banner](https://raw.githubusercontent.com/tinkerhubsct26-max/tinkerhubsct26-max/assets/banner-git-simple-aa)
 # ⚔️ The Git Quest: Journey Through Middle-earth
 Welcome, traveler!
 
